@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
-title = "Meghna"
+baseURL = "https://progcode.org"
+title = "Progressive Coders Network"
 theme = "meghna-hugo-1.1.0"
 themesDir = "themes/"
 # post pagination
@@ -10,7 +10,9 @@ summaryLength = "15"
 # disqus short name
 # disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = []
+disableLanguages = ["fr"]
+# This theme has multilingual support out of the box.
+# We can (and should) enable these later.
 
 ############################# Plugins ##########################
 # css plugins
