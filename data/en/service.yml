@@ -1,15 +1,15 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Our Services
+  title : Featured Projects
   service_item :
     # service item loop
-    - name : WordPress Theme
+    - name : OptOut News
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : A nonprofit news app where you can completely bypass the corporate media and read, listen to, and watch exclusively independent content
       
     # service item loop
-    - name : Responsive Design
+    - name : EnviroTrack
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
