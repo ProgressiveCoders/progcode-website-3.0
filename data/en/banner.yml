@@ -4,9 +4,9 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  title : "We are the change makers"
+  content : Progressive Coders Network is a 501(c)(4) non-partisan progressive community of tech and non-tech activists building open-source tools to empower the grassroots and reduce the influence of big money in politics."
   button:
     enable : true
-    label : "Explore Us"
+    label : "Explore ProgCode"
     link : "#services"
